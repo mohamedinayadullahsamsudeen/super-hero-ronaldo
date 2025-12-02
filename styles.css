@@ -63,13 +63,13 @@ h4 {
     line-height: 0.9;
     font-weight: 900;
     color: var(--light-text);
-    text-shadow: 4px 4px 0px var(--primary-blue);
+    text-shadow: 4px 4px 0px var(--accent-gold);
     animation: slideIn 1s ease-out;
 }
 
 .hero-content h1 span {
     color: var(--primary-red);
-    text-shadow: 4px 4px 0px #fff;
+    text-shadow: 4px 4px 0px #3f148f;
 }
 
 .hero-content p {
